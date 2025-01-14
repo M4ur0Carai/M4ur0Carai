@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M4ur0Carai#, a 22-year-old IT analyst and support specialist from Londrina, Brazil. I have a technical background in computing and am working towards becoming a systems analyst.
+- 👋 Hi, I’m @M4ur0Carai#, a 2X-year-old IT analyst and support specialist from Londrina, Brazil. I have a technical background in computing and am working towards becoming a systems analyst.
   
 - 👀 I’m interested in robotics, automation, virtual reality, and AI as tools to enhance human intellect.  In my professional life, I am focused on mastering Python as my primary tool, doing the minimum necessary in my current job until I transition to a new role, becoming a Python developer, improving my English and Japanese language skills, and exploring areas such as game development, robotics, 3D printing, lifestyle, virtual reality, and AI.
 
